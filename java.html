@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        button
+        {
+            height: 50px;
+            width: 200px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+    
+    <div id="div" style="height: 100vh;width:100vw">
+        <center><button onclick="f1()" on  id="but">dark mode</button></center>
+        
+
+
+
+
+    </div>
+    <script>
+        var a=document.getElementById('div')
+        a.style.backgroundColor='white'
+        var t=true;
+        function f1()
+        {
+            
+            if(t)
+            {
+                a.style.backgroundColor='black'
+                var b = document.getElementById('but')
+                b.innerHTML='white mode'
+            }
+            else
+            {
+                a.style.backgroundColor='white'
+                var b = document.getElementById('but')
+                b.innerHTML='Dark mode'
+            }
+            t=!t
+            
+        }
+
+    </script>
+</body>
+</html>
