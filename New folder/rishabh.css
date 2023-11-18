@@ -1,0 +1,42 @@
+img{
+    margin-left: 100px;
+}
+#a{
+    margin-left: 100px;
+}
+#b{
+    float: left;
+    margin-left: 80px;
+}
+#d{
+    background-color: gray;
+    height: 30px;
+    width: 1000px;
+    margin-left: 100px;
+}
+#dd0{
+    float: left;
+    height: 600px;
+    width: 650px;
+    margin-left: 100px;
+}
+#dd3{
+    float: left;
+    height: 500px;
+    width: 300px;
+    margin-left: 50px;
+}
+body
+{
+    background-image:url(bg.jpg);
+}
+#dd{
+    background-color: white;
+    height: 160px;
+}
+#dd4{
+    background-color: white;
+}
+#ddd{
+    margin: 30px;
+}

@@ -1,0 +1,29 @@
+@import url('reset.css');
+/* General Demo Style */
+body{
+	background-image: url(../bg.jpg);
+	background-size: cover;
+	
+	font-family: 'Josefin Slab', Arial, sans-serif;
+	font-size: 13px;
+}
+
+a{
+	color: #fff;
+	text-decoration: none;
+}
+
+h3{
+	margin:0px;
+	padding:20px;
+    text-align:left;
+	color: #92a5de;
+	text-align: center;
+
+font: bold 40px Sans-Serif;
+}
+
+
+/* Header Style */
+
+

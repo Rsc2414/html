@@ -1,0 +1,29 @@
+#container {
+        width: 800px;
+        height: 600px;
+        padding: 10px;
+        text-align: center;
+      }
+      #certificate {
+        width: 400px;
+        height: 400px;
+        padding: 10px;
+        text-align: center;
+        margin-left: 400px;
+        margin-top: 80px;
+        border: 2px solid black;
+        background-color: white;
+      }
+      h1 {
+        margin-left: 170px;
+        color: #92a5de;
+        font: bold 40px Sans-Serif;
+      }
+      input[type="submit"] {
+        margin-left: 200px;
+        background-color: lightblue;
+        height: 30px;
+        padding: 5px;
+        border-radius: 10px;
+        box-shadow: 2px 2px 2px grey;
+      }
