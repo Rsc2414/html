@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #a{
+            height: 400px;
+            width: 400px;
+            background-color: aquamarine;
+        }
+        #b{
+            margin: 50px;
+            height: 250px;
+            width: 250px;
+            background-color: aqua;
+        }
+    </style>
+</head>
+<body>
+    <div id="a">
+        <center><b><h1>Rishabh</h1></b></center>
+        <center>
+            <div id="b">
+                class = ---- <br>
+                phone-no = ---- <br>
+                address = ---- <br>
+                favourate teacher = Dr. Rajesh sir
+            </div>
+        </center>
+    </div>
+    <script>
+        // let a="Hello My Name Is Rishabh Singh Chauhan";
+        // let b=" i am Student in PSIT"
+        // document.write(a+b)
+        // document.write(a.charAt(4))
+        // document.write(a.indexOf('Hello'))
+        // document.write(a.lastIndexOf('Hello'))
+        // document.write(a.toLowerCase())
+        // document.write(a.toUpperCase())
+        // document.write(a.slice(2,7))
+        // document.write(b.trim())
+        // var myBook = {
+        //     title:"Perl",author: "rishabh",page:335
+        // }
+        // document.write("Book name is :"+myBook.title +"<br>"+"Book author is:"+myBook.author+"<br>"+"Total pages:"+myBook.page);
+
+
+    </script>
+</body>
+</html>
